@@ -1,0 +1,204 @@
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\csc.exe
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\vbc.exe
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll.config
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.pdb
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\WebGrease.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.dll
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.pdb
+C:\Users\mukumar\Desktop\Work\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\csc.exe
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\vbc.exe
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll.config
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.pdb
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\WebGrease.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.dll
+C:\Users\mukesh\Desktop\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.pdb
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\csc.exe
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\vbc.exe
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll.config
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.pdb
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\WebGrease.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.pdb
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csprojAssemblyReference.cache
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csproj.CoreCompileInputs.cache
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csproj.CopyComplete
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.pdb
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\csc.exe
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\vbc.exe
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll.config
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\CRUDwithAngularJSAndWebAPI.pdb
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\WebGrease.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Helpers.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Mvc.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Optimization.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Razor.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Antlr3.Runtime.pdb
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\Newtonsoft.Json.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csprojAssemblyReference.cache
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csproj.CoreCompileInputs.cache
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.csproj.CopyComplete
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.dll
+C:\Ingeniería en Sistemas\Ciclo VIII\Desarrollo Web\antiguo\CRUDwithAngularJSAndWebAPI\CRUDwithAngularJSAndWebAPI\obj\Debug\CRUDwithAngularJSAndWebAPI.pdb
